@@ -9,7 +9,7 @@ class Solution {
 
 
 
-        int index = -1;
+        int index = 0;
 
         for (int i = 0; i < word.length(); i++){
 
@@ -23,11 +23,11 @@ class Solution {
 
         }
 
-        if(index == -1){
+        // if(index == -1){
               
-              return word;
+        //       return word;
 
-        }
+        // }
 
        
 
